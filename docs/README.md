@@ -1,3 +1,2 @@
 # Daruk
-
-Daruk is a lightweight web framework base on Koa and written in Typescript.
+Darku是一个基于Koa2和Typescript编写的高性能Web框架
